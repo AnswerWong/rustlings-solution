@@ -1,0 +1,1 @@
+{"rustc":13167021758971426854,"features":"","target":0,"profile":0,"path":0,"deps":[[6712397932509100298,"build_script_build",false,773422089820241670]],"local":[{"RerunIfChanged":{"output":"debug/build/escargot-3639933c2a65c52d/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

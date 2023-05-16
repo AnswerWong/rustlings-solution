@@ -1,0 +1,12 @@
+/Users/wanghaitao/Rust/projects/rustlings/target/debug/deps/notify-8aa6331bcdf56a81.rmeta: /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/wanghaitao/Rust/projects/rustlings/target/debug/deps/libnotify-8aa6331bcdf56a81.rlib: /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/wanghaitao/Rust/projects/rustlings/target/debug/deps/notify-8aa6331bcdf56a81.d: /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs:
+/Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs:
+/Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs:
+/Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs:
+/Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs:
+/Users/wanghaitao/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs:
