@@ -38,7 +38,7 @@ mod my_module {
                     output.push(string.to_uppercase());
                 }
                 Command::Trim => {
-                    output.push(string.trim().to_string());
+                    output.push(string.trim().to_owned());
                 }
                 Command::Append(times) => {
                     // let mut s = String::from(string);
@@ -46,7 +46,7 @@ mod my_module {
                     //     s.push_str("bar");
                     // }
                     // output.push(s);
-                    output.push(string.to_owned() + &"bar".repeat(*size));
+                    output.push(string.to_owned() + &"bar".repeat(*times));
 
                 }
             }
