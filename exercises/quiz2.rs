@@ -41,11 +41,13 @@ mod my_module {
                     output.push(string.trim().to_string());
                 }
                 Command::Append(times) => {
-                    let mut s = String::from(string);
-                    for _i in (0..*times) {
-                        s.push_str("bar");
-                    }
-                    output.push(s);
+                    // let mut s = String::from(string);
+                    // for _i in (0..*times) {
+                    //     s.push_str("bar");
+                    // }
+                    // output.push(s);
+                    output.push(string.to_owned() + &"bar".repeat(*size));
+
                 }
             }
         }
