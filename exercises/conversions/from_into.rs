@@ -39,24 +39,16 @@ impl Default for Person {
 
 impl From<&str> for Person {
     fn from(s: &str) -> Person {
-        if s.len() == 0 {
-            return Person::default();
-        }
-        let vec = s.split(",").collect::<Vec<&str>>();
-        if vec.len() != 2 || vec[0].len() == 0 || vec[1].len() == 0 {
-            return Person::default();
-        }
-        match vec[1].parse::<usize>() {
-            Ok(age) => {
-                Person {
-                    name: vec[0].to_string(),
+        let p: Vec<_> = s.split(",").collect();
+        if p.len() == 2 && p[0] != "" {
+            if let Ok(age) = p[1].parse::<usize>() {
+                return Person {
+                    name: p[0].to_string(),
                     age,
-                }
-            }
-            Err(_) => {
-                Person::default()
+                };
             }
         }
+        return Person::default();
     }
 }
 
